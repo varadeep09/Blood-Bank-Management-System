@@ -77,5 +77,5 @@ http://127.0.0.1:8000/
 
 ## Feedback
 If Any Queries
-- [Contact on Linkedin]((https://www.linkedin.com/in/varadeep))
+- [Linkedin](https://www.linkedin.com/in/varadeep)
 - [gmail:](tailorvaradeep17@gmail.com)
