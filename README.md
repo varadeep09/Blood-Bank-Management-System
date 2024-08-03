@@ -1,5 +1,6 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-varadeep)
+![developer]https://img.shields.io/badge/Developed%20By%20-%20Varadeep-red
+
 ---
 ## Screenshots
 ### Homepage
