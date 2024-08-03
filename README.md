@@ -12,7 +12,7 @@
 ### Patient Details
 ![doctor snap](https://github.com/varadeep09/Blood-Bank-Management-System/blob/main/static/screenshot/Patient%20Details.png)
 ### Logout
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](https://github.com/varadeep09/Blood-Bank-Management-System/blob/main/static/screenshot/Log%20out.png)
 ---
 ## Functions
 
